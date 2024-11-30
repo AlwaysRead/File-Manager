@@ -63,7 +63,7 @@ To use the file organizer script, follow these steps:
 3. Run the script using the following command:
 
    ```bash
-   python file_organizer.py
+   python file_manager.py
    ```
 
 4. The script will prompt you to enter the path of the directory you wish to organize. Enter the path and press Enter.
